@@ -21,4 +21,4 @@ puts @grocery_list.at(1)
 listed
 g = @grocery_list.index("salmon")
 puts @grocery_list.at(g)
-@grocery_list.delete_at(g)
+listed
